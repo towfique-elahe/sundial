@@ -1,0 +1,4 @@
+pystray>=0.19
+Pillow>=9
+astral>=3.2
+tzdata>=2024.1
